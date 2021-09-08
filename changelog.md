@@ -1,3 +1,3 @@
 # Changelog
 
-Initial Commit
+Wrote section for reading file contents.
