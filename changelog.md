@@ -1,4 +1,7 @@
 # Changelog
 
-**./chapters/02-syntax.md**
-* Fixed navigation formatting.
+**./chapters/**
+* Initialized other chapter files.
+	* Basic structure
+	* Navigation controls.
+* Chapters 03 - 24
