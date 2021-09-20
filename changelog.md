@@ -1,3 +1,4 @@
 # Changelog
 
-Converted chapters 14 - 15
+**./chapters/04-booleans.md**
+* Added missing full stops.
