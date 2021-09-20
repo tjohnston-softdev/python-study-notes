@@ -1,7 +1,3 @@
 # Changelog
 
-**./chapters/**
-* Initialized other chapter files.
-	* Basic structure
-	* Navigation controls.
-* Chapters 03 - 24
+Converted chapters 03 - 05
