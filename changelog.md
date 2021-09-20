@@ -1,4 +1,4 @@
 # Changelog
 
 **./chapters/01-introduction.md**
-* New file - Introduction chapter
+* Horizontal rule on main heading.
