@@ -161,7 +161,7 @@ print(z)
 
 ---
 
-**Previous:** [01 - Introduction](./01-introduction.md)
+**Previous:** [01 - Introduction](./01-introduction.md)  
 **Next:** [03 - Strings](./03-strings.md)
 
 [Contents](./readme.md)
