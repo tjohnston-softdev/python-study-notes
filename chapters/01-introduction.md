@@ -42,3 +42,10 @@
 
 ## Checking Version
 To check if Python is installed, open a terminal and run the command `python --version`
+
+---
+
+**Previous:**  
+**Next:** [02 - Syntax](./02-syntax.md)
+
+[Contents](./readme.md)
