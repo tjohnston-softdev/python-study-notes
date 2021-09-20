@@ -1,4 +1,4 @@
 # Changelog
 
 **./chapters/01-introduction.md**
-* Horizontal rule on main heading.
+* Double digit chapter number.
