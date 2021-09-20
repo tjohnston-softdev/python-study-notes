@@ -21,6 +21,7 @@
 ## Example
 Copied directly from [W3Schools](https://www.w3schools.com/python/python_modules.asp).
 
+**Parent**
 ```python
 person1 = {
   "name": "John",
@@ -29,6 +30,7 @@ person1 = {
 }
 ```
 
+**Child**
 ```python
 import mymodule as mx
 
@@ -68,6 +70,7 @@ for item in varList:
 	* `from moduleName import varName`
 * Example copied directly from [W3Schools](https://www.w3schools.com/python/python_modules.asp).
 
+**Parent**
 ```python
 def greeting(name):
   print("Hello, " + name)
@@ -79,6 +82,7 @@ person1 = {
 }
 ```
 
+**Child**
 ```python
 from mymodule import person1
 
