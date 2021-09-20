@@ -1,4 +1,4 @@
 # Changelog
 
-**./chapters/01-introduction.md**
-* Added chapter navigation.
+**./chapters/02-syntax.md**
+* New file - Syntax chapter.
