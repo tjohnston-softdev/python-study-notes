@@ -31,7 +31,7 @@ print("Neutral : " + neutralString)
 ```
 
 ## Arbitrary Arguments
-* For an indefinite number of arguments, add a '\*' before the parameter name in the function definition.
+* For an indefinite number of arguments, add a `\*` before the parameter name in the function definition.
 	* The function will receive a tuple of arguments.
 	* Individual items can be accessed accordingly.
 
@@ -70,7 +70,7 @@ displayCountry()
 
 ## Pass
 * Similar to loop and IF structures, they cannot be empty.
-* You can still use the 'pass' statement to avoid errors.
+* You can still use the `pass` statement to avoid errors.
 
 ```python
 def emptyFunction():
@@ -92,9 +92,9 @@ print("Passed")
 
 ## Recursion - Example
 * Consider this example, copied directly from [W3Schools](https://www.w3schools.com/python/python_functions.asp).
-	* Use the 'k' variable as data.
+	* Use the `k` variable as data.
 	* This decrements every time we recurse.
-	* The recursion ends when 'k' reaches Zero
+	* The recursion ends when `k` reaches Zero
 
 ```python
 def tri_recursion(k):
