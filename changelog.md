@@ -1,7 +1,7 @@
 # Changelog
 
-**./chapters/17-datetime.md**
-* Added missing full stops to format code descriptions.
+**./chapters/19-json.md**
+* Formatted function names and keywords.
 
 ---
 

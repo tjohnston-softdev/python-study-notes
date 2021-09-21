@@ -69,9 +69,9 @@ print(y)
 ## Stringify Format
 * When printing a JSON string as-is, it has no line breaks or indentation.
 	* Therefore, it is not easy to read.
-* The 'json.dumps()' method has parameters to:
-	* Specify the number of indents so that the text is easier to read. (indent=4)
-	* Order the keys in a result. (sort_keys=True)
+* The `json.dumps()` method has parameters to:
+	* Specify the number of indents so that the text is easier to read. `indent=4`
+	* Order the keys in a result. `sort_keys=True`
 
 ```python
 import json
