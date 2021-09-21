@@ -1,4 +1,4 @@
 # Changelog
 
-**./chapters/01-introduction.md**
-* Added colon `:` before version command.
+**./chapters/readme.md**
+* Contents document structure.
