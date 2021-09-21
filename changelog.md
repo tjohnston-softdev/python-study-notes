@@ -8,4 +8,4 @@
 **TO DO**
 * ~~Missing full stops in table cells.~~
 * ~~Format `None`~~
-* Format function names, keywords, etc.
+* ~~Format function names, keywords, etc.~~
