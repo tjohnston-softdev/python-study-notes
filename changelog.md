@@ -1,7 +1,8 @@
 # Changelog
 
-**./chapters/03-strings.md**
-* Added full stops to escape character descriptions.
+**./chapters/04-booleans.md**
+* Formatted `bool()`
+* "considered 'True'" --> "considered to be True"
 
 ---
 
