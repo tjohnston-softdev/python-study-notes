@@ -1,4 +1,4 @@
 # Changelog
 
 **./chapters/readme.md**
-* Contents document structure.
+* Wrote contents for chapter 1.
