@@ -1,8 +1,13 @@
 # Changelog
 
-**./chapters/04-booleans.md**
-* Formatted `bool()`
-* "considered 'True'" --> "considered to be True"
+**./chapters/05-operators.md**
+* Added full stops to:
+	* Arithmetic names.
+	* Comparison names.
+	* Logical descriptions.
+	* Identity descriptions
+	* Membership descriptions.
+* Added escape characters to multiplication symbols.
 
 ---
 
