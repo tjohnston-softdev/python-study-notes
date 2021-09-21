@@ -15,7 +15,7 @@ print(result)
 	* Any string unless empty.
 	* Any number except Zero.
 	* Any list, tuple, or set unless it is empty.
-* The value 'None' evaluates to False.
+* The value `None` evaluates to False.
 
 ---
 
