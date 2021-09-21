@@ -1,7 +1,9 @@
 # Changelog
 
-**./chapters/**
-* Formatted the function names and keywords in chapters 06 - 11
+**./chapters/11-loops.md**
+* Re-wrote 'step' argument default value.
+	* Before: "[...] this will be 1 (default value)."
+	* After: "[...] this will be 1, which is the default value."
 
 ---
 

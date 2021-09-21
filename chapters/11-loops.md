@@ -58,7 +58,7 @@ for loopIndex in range(10,20):
 
 ## Step
 * It is possible to specify the increment value by adding a third argument to `range()`.
-* Most of the time, this will be 1 (default value).
+* Most of the time, this will be 1, which is the default value.
 * There are times when you might want to use this.
 
 ```python
