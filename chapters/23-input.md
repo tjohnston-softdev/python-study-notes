@@ -15,7 +15,7 @@ print(enteredUser)
 ```
 
 ## Waiting
-* The 'input' function causes Python to stop executing.
+* The `input()` function causes Python to stop executing.
 * It waits for input, and continues after it has been entered.
 
 ---

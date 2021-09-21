@@ -1,7 +1,7 @@
 # Changelog
 
-**./chapters/21-pip.md**
-* Capitalized "NPM"
+**./chapters/**
+* Formatted function names and keywords in chapters 22 - 24.
 
 ---
 

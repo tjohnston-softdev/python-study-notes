@@ -5,7 +5,7 @@
 ## Introduction
 * File handling is an important part of any software tool.
 * Python has several functions for this.
-* This is mainly achieved using the 'open' function.
+* This is mainly achieved using the `open()` function.
 
 ## Handle Codes
 | Code | Name | Description |
@@ -40,7 +40,7 @@ print(fileContents)
 ## Append Content
 * This example appends new text onto an existing file.
 	* If the file does not exist, it will be created.
-* Notice the 'a' (for append) file handling code.
+* Notice the `a` (for append) file handling code.
 * After you are done working with a file, you must release it with the `close()` function.
 
 ```python
@@ -76,7 +76,7 @@ print("File created successfully")
 * You should check if a file exists before trying to delete it.
 	* If you try to delete a non-existent file, there will be an error.
 * To check if a file exists, use the `os.path.exists()` function.
-* To delete a file, use the `os.remove` function.
+* To delete a file, use the `os.remove()` function.
 
 ```python
 import os

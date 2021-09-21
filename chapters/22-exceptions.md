@@ -5,7 +5,7 @@
 ## Exception Handling
 * When an error occurs, Python will normally stop and generate an error message.
 	* These situations are called 'exceptions'.
-* These exceptions can be handled safely using 'try-except' structures.
+* These exceptions can be handled safely using `try-except` structures.
 	* If the `try` block raises an error, the `except` block will be executed instead.
 	* Without this, the program will crash and raise a fatal error.
 * Overall, these can be used to mitigate runtime errors.
@@ -22,7 +22,7 @@ except:
 ```
 
 ## Specific Exception Types
-* You can define as many 'except' blocks as you want.
+* You can define as many `except` blocks as you want.
 	* One block for each known exception type.
 	* Executing specific code for specific errors.
 * For example, if you try to use an unknown variable, it will raise a `NameError` exception.
