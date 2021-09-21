@@ -1,7 +1,7 @@
 # Changelog
 
-**./chapters/20-regex.md**
-* Added missing full stops.
+**./chapters/21-pip.md**
+* Capitalized "NPM"
 
 ---
 

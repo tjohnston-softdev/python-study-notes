@@ -4,7 +4,7 @@
 
 ## Introduction
 * PIP is a package manager for Python packages and modules.
-	* The same as 'npm' for Node JS.
+	* The same as NPM for Node JS.
 * If you have Python version 3.4 or later, PIP is included by default.
 
 ## Package
