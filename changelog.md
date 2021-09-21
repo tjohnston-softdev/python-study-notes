@@ -1,7 +1,7 @@
 # Changelog
 
-**./chapters/04-booleans.md**
-* Formatted `None` as code.
+**./chapters/02-syntax.md**
+* Formatted function names and keywords.
 
 ---
 

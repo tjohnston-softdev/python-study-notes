@@ -3,7 +3,7 @@
 ---
 
 ## Hello World
-The 'print' function is used to display text to console.
+The `print()` function is used to display text to console.
 
 ```python
 print("Hello World")
@@ -56,7 +56,7 @@ print("Done")
 	* Variables are not declared as a particular type.
 	* The type depends on the value.
 	* Can be changed on-the-fly.
-* In short, it is similar to JavaScript but without the var command.
+* In short, it is similar to JavaScript but without the `var` command.
 
 ```python
 x = 5;             # Number
@@ -102,7 +102,7 @@ exampleFunction()
 ```
 
 ## Function Globals
-* To create or change a global variable inside a function, use the global keyword.
+* To create or change a global variable inside a function, use the `global` keyword.
 * Declaring and assigning are on separate lines.
 
 
@@ -118,7 +118,7 @@ exampleFunction()
 ```
 
 ## Get Data Type
-The data type of a value can be retrieved using the 'type' function.
+The data type of a value can be retrieved using the `type()` function.
 
 ```python
 baseValue = "Hello World"
@@ -145,7 +145,7 @@ print(valType)
 | memoryview | memoryview(bytes(5)) | memoryview(bytes(5)) |
 
 ## Complex Numbers
-* Written with 'j' as the imaginary part
+* Written with `j` as the imaginary part
 * Cannot be converted into other number types.
 
 
