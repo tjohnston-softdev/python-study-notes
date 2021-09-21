@@ -1,4 +1,4 @@
 # Changelog
 
 **./chapters/readme.md**
-* Wrote contents for chapter 1.
+* Fixed missing square bracket for 'Chapter 01 / What is Python?' link.
