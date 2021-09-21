@@ -1,7 +1,7 @@
 # Changelog
 
 **./chapters/03-strings.md**
-* Formatted function names and keywords.
+* Formatted escape character.
 
 ---
 

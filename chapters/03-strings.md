@@ -140,7 +140,7 @@ print(finalText)
 ```
 
 ## Escape Quotes
-The escape character (\) allows you to use quotation marks where they would not normally be allowed.
+The escape character `\` allows you to use quotation marks where they would not normally be allowed.
 
 ```python
 strTxt = "I'm \"shipping up\" to Boston."
