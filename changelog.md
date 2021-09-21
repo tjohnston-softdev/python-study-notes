@@ -6,6 +6,6 @@
 ---
 
 **TO DO**
-* Missing full stops in table cells.
+* ~~Missing full stops in table cells.~~
 * ~~Format `None`~~
 * Format function names, keywords, etc.
