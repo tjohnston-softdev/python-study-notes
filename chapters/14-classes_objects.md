@@ -25,7 +25,7 @@ print(localObject.x)
 * This function can be used to:
 	* Assign values to object properties. (Both specific and default)
 	* Perform necessary operations during the object's creation.
-* The first parameter is 'self', which refers to the object being created.
+* The first parameter is `self`, which refers to the object being created.
 
 ```python
 class Person:

@@ -1,7 +1,7 @@
 # Changelog
 
-**./chapters/12-functions.md**
-* Reformatted function names and keywords.
+**./chapters/**
+* Reformatted function names and keywords for chapters 14 - 17
 
 ---
 

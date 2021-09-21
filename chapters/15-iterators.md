@@ -28,17 +28,17 @@ print(next(myit))
 ```
 
 ## Looping
-* You can use a FOR loop to iterate through iterator objects.
+* You can use a `for` loop to iterate through iterator objects.
 	* Similar to looping through a list. (Array)
-* When running a FOR loop, Python:
+* When running a `for` loop, Python:
 	* Creates an iterator object.
-	* Executes the 'next()' method for each loop iteration.
+	* Executes the `next()` method for each loop iteration.
 
 ## Classes and Iterators
 * To define an iterator into your class, you need to implement these methods:
 	* `__iter__()` - Must return the iterator object itself.
 	* `__next__()` - Must return the next value in sequence.
-* To prevent infinite loops, we use the 'StopIteration' statement inside the 'next' method.
+* To prevent infinite loops, we use the 'StopIteration' statement inside the `next()` method.
 
 ```python
 class MyNumbers():

@@ -5,7 +5,7 @@
 ## Introduction
 * A module is a library of code.
 * Contains properties and functions you may want to include when writing a program.
-* To require a file similar to in Node JS, use the 'import' statement.
+* To require a file similar to in Node JS, use the `import` statement.
 	* eg. `import moduleName`
 
 ## Usage Syntax
@@ -15,7 +15,7 @@
 ## Alias
 * When importing a module, you can include an alias.
 	* If the module is a variable, the alias is the name of that variable.
-* To do this, use the 'as' keyword.
+* To do this, use the `as` keyword.
 	* eg. `import moduleName as aliasName`
 
 ## Example
@@ -51,7 +51,7 @@ print(os)
 ```
 
 ## List Module Properties
-* To retrieve all functions and properties in an imported module, use the 'dir' function.
+* To retrieve all functions and properties in an imported module, use the `dir()` function.
 	* This function is built-in.
 * Can be used on all modules, including the ones you create yourself.
 
@@ -66,7 +66,7 @@ for item in varList:
 
 ## Import From
 * You can choose to only import particular variables from a module instead of the whole thing.
-* This is done by using the 'from' keyword.
+* This is done by using the `from` keyword.
 	* `from moduleName import varName`
 * Example copied directly from [W3Schools](https://www.w3schools.com/python/python_modules.asp).
 

@@ -32,7 +32,7 @@ print(dispTxt)
 ```
 
 ## Constructor
-* To create a new timestamp object, use the 'datetime' method.
+* To create a new timestamp object, use the `datetime()` method.
 	* Required parameters: `[year, month, day]`.
 	* Optional parameters: `[hour, minute, second, microsecond, timezone]`.
 
@@ -44,7 +44,7 @@ print(newDate)
 ```
 
 ## String Formatting
-* To format a date object into a readable string, use the 'strftime' method.
+* To format a date object into a readable string, use the `strftime()` method.
 * Inputs a format string as a parameter.
 * This example displays the name of the current month.
 
