@@ -25,7 +25,7 @@ for x in "meow":
 ```
 
 ## Length
-Retrieved using the 'len' function.
+Retrieved using the `len()` function.
 
 ```python
 baseString = "Hello World"
@@ -40,8 +40,8 @@ print(outputText)
 ```
 
 ## Includes
-* To check for a certain substring, use the 'in' keyword.
-* For the opposite, use 'not in'
+* To check for a certain substring, use the `in` keyword.
+* For the opposite, use `not in`
 * Can be used in IF statements and other condition checks.
 
 ```python
@@ -59,7 +59,7 @@ print("Finished")
 ## Slicing
 * You can return a range of characters from a string using the slice syntax.
 	* In other words, a substring.
-* To do this, specify the start and end index separated by colon. [x:y]
+* To do this, specify the start and end index separated by colon. `[x:y]`
 * The 'start' character is included, but not the 'end' character.
 * Leave out the start index to slice up to a certain point from the beginning of the string/
 * Leave out the end index to slice from a certain point to the end of the string.
@@ -88,12 +88,12 @@ print(subString)
 ```
 
 ## General Methods
-* 'upper' returns the string in uppercase.
-* 'lower' returns the string in lowercase.
-* 'strip' removes leading whitespace from the beginning and end.
-	* Same as 'trim' from JavaScript
-* 'replace' searches for a substring and replaces it with another.
-* 'split' returns a list of substrings between the given separator.
+* `upper()` returns the string in uppercase.
+* `lower()` returns the string in lowercase.
+* `strip()` removes leading whitespace from the beginning and end.
+	* Same as `trim()` from JavaScript
+* `replace()` searches for a substring and replaces it with another.
+* `split()` returns a list of substrings between the given separator.
 
 ```python
 baseString = "     The quick Brown Fox jumps over the lazy Dog     "
@@ -111,7 +111,7 @@ print(wordsList)
 ```
 
 ## Formatting
-The 'format' method takes passed arguments, formats them, and writes them into placeholders specified throughout the string.
+The `format()` method takes passed arguments, formats them, and writes them into placeholders specified throughout the string.
 
 ```python
 itemCount = 7
