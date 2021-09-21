@@ -43,38 +43,38 @@ else:
 ## Meta Characters
 | Character | Description | Example |
 |---|---|---|
-| \[\] | Set of characters | \[a-z\], \[q, w, e, r, t, y\] |
+| \[\] | Set of characters. | \[a-z\], \[q, w, e, r, t, y\] |
 | \ | Signals a special sequence, or escapes special characters. | \d |
-| ^ | String starts with | ^Hello |
-| $ | String ends with | World!$ |
-| \* | Zero or more occurrences (Optional) | text\* |
-| + | One or more occurrences (Required) | text+ |
+| ^ | String starts with. | ^Hello |
+| $ | String ends with. | World!$ |
+| \* | Zero or more occurrences (Optional). | text\* |
+| + | One or more occurrences (Required). | text+ |
 | {x} | Exactly x number of occurrences. | text{3} |
-| \| | Either/Or | Yes|No |
-| () | Capturing group | (syntax) |
+| \| | Either/Or. | Yes|No |
+| () | Capturing group. | (syntax) |
 
 ## Special Sequences
 | Character | Description | Example |
 |---|---|---|
-| \A | String starts with | \AHello |
+| \A | String starts with. | \AHello |
 | \b | Characters are at the beginning or end of a word. (Note: The "r" at the beginning signifies a raw string.) | r"\bain" |
 | \B | Characters that are in a word, but not the beginning or end. | r"\Bain" |
-| \d | Digit | 0-9 |
-| \D | Not a digit |  |
-| \s | Whitespace | Spaces, tabs, etc |
-| \S | Not whitespace |  |
-| \w | Word character | A-Z, a-z, 0-9, underscore |
-| \W | Not a word character |  |
-| \Z | String ends with | Spain\Z |
+| \d | Digit. | 0-9 |
+| \D | Not a digit. |  |
+| \s | Whitespace. | Spaces, tabs, etc |
+| \S | Not whitespace. |  |
+| \w | Word character. | A-Z, a-z, 0-9, underscore |
+| \W | Not a word character. |  |
+| \Z | String ends with. | Spain\Z |
 
 ## Sets
 | Set | Description |
 |---|---|
 | \[arn\] | Any of these characters. |
-| \[a-z\] | Any characters in the range |
+| \[a-z\] | Any characters in the range. |
 | \[^arn\] | Any characters except for these. |
-| \[0-5\]\[0-9\] | Matches any number from 00 - 59 |
-| \[a-zA-Z\] | Alphabet character (Case insensitive) |
+| \[0-5\]\[0-9\] | Matches any number from 00 - 59. |
+| \[a-zA-Z\] | Alphabet character (Case insensitive). |
 | \[+\] | Although this is a special character, escaping is not required when in a set. |
 
 ## Find All

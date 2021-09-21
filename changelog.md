@@ -1,7 +1,7 @@
 # Changelog
 
-**./chapters/19-json.md**
-* Formatted function names and keywords.
+**./chapters/20-regex.md**
+* Added missing full stops.
 
 ---
 
