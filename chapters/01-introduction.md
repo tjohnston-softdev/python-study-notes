@@ -8,8 +8,8 @@
 * Used for:
 	* Server-side web development.
 	* Software development.
-	* Mathematics
-	* System scripting / automation
+	* Mathematics.
+	* System scripting / automation.
 
   
 

@@ -1,3 +1,4 @@
 # Changelog
 
-Removed to-do list.
+**./chapters/01-introduction.md**
+* Added missing full stops.
