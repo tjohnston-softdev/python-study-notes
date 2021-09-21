@@ -22,7 +22,7 @@ print(exampleArray)
 * List items can be any data type. They do not all have to be the same.
 
 ## List Length
-Similar to strings, the 'len' function retrieves the list length.
+Similar to strings, the `len()` function retrieves the list length.
 
 ```python
 arrayObj = ["X", "Y", "Z"]
@@ -84,7 +84,7 @@ print(negativeSub)
 ```
 
 ## Includes
-Use the 'in' keyword to check if a given item is included in the list.
+Use the `in` keyword to check if a given item is included in the list.
 
 ```python
 arrayObj = ["ABC", "DEF", "GHI", "JKL", "MNO", "PQRS", "TUV", "WXY", "Z"]
@@ -102,7 +102,7 @@ print(arrayObj)
 ```
 
 ## Insert
-* Use the 'insert' method to add a new list item to a specified index.
+* Use the `insert()` method to add a new list item to a specified index.
 	* Inserting an item at a specified index.
 
 ```python
@@ -112,7 +112,7 @@ print(arrayObj)
 ```
 
 ## Append
-The 'append' method adds an item to the end of the list.
+The `append()` method adds an item to the end of the list.
 
 ```python
 arrayObj = ["Cat", "Dog", "Rabbit"]
@@ -121,7 +121,7 @@ print(arrayObj)
 ```
 
 ## Remove Item
-* The 'remove' method removes any list items of that given value.
+* The `remove()` method removes any list items of that given value.
 * All instances of the value are removed.
 
 ```python
@@ -134,7 +134,7 @@ print(arrayObj)
 ```
 
 ## Remove Index
-* The 'pop' method removes the list item at the given index.
+* The `pop()` method removes the list item at the given index.
 * If no index is given, the last item is removed by default.
 
 ```python
@@ -147,7 +147,7 @@ print(arrayObj)
 ```
 
 ## Clear
-The 'clear' method empties the list.
+The `clear()` method empties the list.
 
 ```python
 arrayObj = [1, 2, 3]
@@ -156,7 +156,7 @@ print(arrayObj)
 ```
 
 ## For Each
-You can loop through list items using a 'for' loop.
+You can loop through list items using a `for` loop.
 
 ```python
 arrayObj = ["Cat", "Dog", "Rabbit", "Mouse", "Bear"]
@@ -166,9 +166,9 @@ for animal in arrayObj:
 ```
 
 ## Sorting
-* The 'sort' method is used to sort list items.
+* The `sort()` method is used to sort list items.
 	* Ascending order by default.
-	* To sort descending, add the keyword argument: 'reverse = True'
+	* To sort descending, add the keyword argument: `reverse = True`
 
 ```python
 # Define arrays
@@ -195,7 +195,7 @@ print(numberArray)
 ```
 
 ## Sort by Function
-To use a function to determine sort order, add the keyword argument: 'key = \[functionName\]'
+To use a function to determine sort order, add the keyword argument: `key = [functionName]`
 
 ```python
 def sortFunction(n):
@@ -208,7 +208,7 @@ print(arrayObject)
 ```
 
 ## Case-Insensitive Sort
-To remove case-sensitivity when sorting a list of strings, use 'str.lower' as the key function.
+To remove case-sensitivity when sorting a list of strings, use `str.lower()` as the key function.
 
 ```python
 stringArr = ["CaT", "dOg", "RaBbIt", "bEaR", "MoUsE"]
@@ -217,7 +217,7 @@ print(stringArr)
 ```
 
 ## Reverse
-To reverse the order of list items, use the 'reverse' method.
+To reverse the order of list items, use the `reverse()` method.
 
 ```python
 arrayObj = [33, 16, 34, 24, 2, 31, 5, 25, 42, 35, 39, 23, 47, 27, 36, 1, 8, 41, 46, 21]
@@ -226,7 +226,7 @@ print(arrayObj)
 ```
 
 ## Clone
-To clone a list, use the 'list' method.
+To clone a list, use the `list()` method.
 
 ```python
 origArr = [1, 2, 3]
@@ -237,7 +237,7 @@ print(clonedArr)
 ## Concat
 * Two ways of joining lists together:
 	* Adding them like you would with numbers.
-	* Using the 'extend' method to append one list onto another.
+	* Using the `extend()` method to append one list onto another.
 
 ```python
 # Adding

@@ -1,13 +1,7 @@
 # Changelog
 
-**./chapters/05-operators.md**
-* Added full stops to:
-	* Arithmetic names.
-	* Comparison names.
-	* Logical descriptions.
-	* Identity descriptions
-	* Membership descriptions.
-* Added escape characters to multiplication symbols.
+**./chapters/**
+* Formatted the function names and keywords in chapters 06 - 11
 
 ---
 

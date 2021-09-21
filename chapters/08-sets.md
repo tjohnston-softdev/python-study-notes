@@ -27,12 +27,12 @@ print(setObj)
 * Items are unordered and cannot be changed.
 * Duplicate values are not allowed.
 * Items can be any data type.
-* The 'len' method retrieves the number of items. Same as with lists and tuples.
+* The `len()` method retrieves the number of items. Same as with lists and tuples.
 
 ## Accessing Items
 * You cannot access individual items of a set with an index or key.
-	* Use a 'for' loop to iterate over items.
-	* Use the 'in' keyword to check if a particular value is in the set.
+	* Use a `for` loop to iterate over items.
+	* Use the `in` keyword to check if a particular value is in the set.
 
 ```python
 setObj = {"Cat", "Dog", "Rabbit", "Bear", "Mouse"}
@@ -55,7 +55,7 @@ else:
 ## Add New Items
 * Once a set has been created, you cannot change it's items.
 * However, you can still add new items onto the set.
-* To add one new item, use the 'add' method.
+* To add one new item, use the `add()` method.
 
 ```python
 setObj = {"Cat", "Dog"}
@@ -64,7 +64,7 @@ print(setObj)
 ```
 
 ## Concat
-* To add a collection onto the set, use the 'update' method.
+* To add a collection onto the set, use the `update()` method.
 	* Can be used to add multiple items at once.
 	* Accepts tuples, lists and dictionaries. Not just other sets.
 
@@ -76,10 +76,10 @@ print(setObj)
 ```
 
 ## Remove Item
-* There are two methods for this, 'update', and 'discard'.
+* There are two methods for this, `update()`, and `discard()`.
 * The difference is that:
-	* 'update' raises an error if the item does not exist.
-	* 'discard' does not raise an error.
+	* `update()` raises an error if the item does not exist.
+	* `discard()` does not raise an error.
 
 ```python
 setObj = {"Cat", "Dog", "Rabbit", "Bear", "Mouse"}
@@ -91,7 +91,7 @@ print(setObj)
 ```
 
 ## Join - Union
-* The 'union' method is used to combine two sets into a new object.
+* The `union()` method is used to combine two sets into a new object.
 * In other words, it contains items from both sets.
 
 ```python
@@ -103,7 +103,7 @@ print(setC)
 ```
 
 ## Join - Intersection
-* The 'intersection' method returns a new set consisting of items in both input sets.
+* The `intersection()` method returns a new set consisting of items in both input sets.
 	* Items that are in both sets.
 	* x AND y
 * You can also use the 'intersection_update' method to do this without creating a new object.
@@ -117,10 +117,10 @@ print(setC)
 ```
 
 ## Join - Symmetric
-* The 'symmetric_difference' method returns a new set consisting of items that are only in one input set.
+* The `symmetric_difference()` method returns a new set consisting of items that are only in one input set.
 	* Items from one or the other, but not both.
 	* x OR y
-* You can also use the 'symmetric_difference_update' method to do this without creating a new object.
+* You can also use the `symmetric_difference_update()` method to do this without creating a new object.
 
 ```python
 setA = {4, 6, 7, 8, 10, 12, 14, 15, 16, 17}

@@ -3,7 +3,7 @@
 ---
 
 ## Introduction
-* Stores data in 'key:value' pairs.
+* Stores data in `key:value` pairs.
 * Similar to JSON objects in JavaScript.
 * A collection that is ordered and can be changed.
 * While the values themselves can be duplicate, the keys must be unique.
@@ -19,7 +19,7 @@ print(person)
 ```
 
 ## Property Count
-To retrieve the number of keys inside a dictionary, use the 'len' method.
+To retrieve the number of keys inside a dictionary, use the `len()` method.
 
 ## Access Properties
 * You can read or change individual dictionary values by referencing the key in square brackets.
@@ -37,8 +37,8 @@ print(indValue)
 ```
 
 ## Keys and Values
-* The 'keys' method returns a list of all keys in the dictionary.
-* The 'values' method does the same, but for the key values.
+* The `keys()` method returns a list of all keys in the dictionary.
+* The `values()` method does the same, but for the key values.
 
 ```python
 person = {
@@ -55,7 +55,7 @@ print(valueList)
 ```
 
 ## Dictionary Views
-* When using 'keys' and 'values', remember that they are only views to the dictionary.
+* When using `keys()` and `values()`, remember that they are only views to the dictionary.
 	* Any changes to the original dictionary will be reflected in these objects.
 
 ```python
@@ -85,7 +85,7 @@ print(valuesView)
 ```
 
 ## Key Exists
-Use the 'in' keyword to check whether a dictionary object has a particular key.
+Use the `in` keyword to check whether a dictionary object has a particular key.
 
 ```python
 person = {
@@ -117,7 +117,7 @@ print(person)
 ```
 
 ## Remove Key
-To do this, use the 'del' keyword on the dictionary key value.
+To do this, use the `del` keyword on the dictionary key value.
 
 ```python
 person = {
@@ -158,7 +158,7 @@ print("---")
 ```
 
 ## Cloning
-To clone a dictionary object, use the 'copy' method.
+To clone a dictionary object, use the `copy()` method.
 
 ```python
 personA = {
@@ -240,7 +240,7 @@ print(myfamily)
 |---|---|
 | clear() | Removes all 'key:value' pairs from dictionary. |
 | copy() | Returns a copy of the dictionary object, cloning it. |
-| items() | Returns a list containing a tuple object for each 'key:value' pair. Useful when iterating over properties. |
+| items() | Returns a list containing a tuple object for each `key:value` pair. Useful when iterating over properties. |
 | keys() | Returns view list containing dictionary keys. |
 | values() | Returns view list containing dictionary values. |
 

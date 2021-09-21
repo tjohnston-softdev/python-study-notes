@@ -17,7 +17,7 @@ print(exampleTuple)
 * Items are ordered and cannot be changed.
 * Duplicate values are allowed.
 * Indexing is performed the same as lists.
-* The 'len' function is used to retrieve the tuple length.
+* The `len()` function is used to retrieve the tuple length.
 * Items can be of any data type.
 
 ## Single Item Tuple
@@ -52,7 +52,7 @@ print(indItem)
 ```
 
 ## Includes
-* Performed with the 'in' and 'not in' keywords.
+* Performed with the `in` and `not in` keywords.
 * Same as with lists.
 
 ```python
@@ -112,8 +112,8 @@ for animal in tupleObj:
 ```
 
 ## Methods
-* 'count' returns the number of times a given value appears in the tuple.
-* 'index' searches the tuple for a given value and returns the index of where it is first found.
+* `count()` returns the number of times a given value appears in the tuple.
+* `index()` searches the tuple for a given value and returns the index of where it is first found.
 
 ---
 

@@ -44,9 +44,9 @@ for loopIndex in range(10):
 ```
 
 ## Loop Range
-* To loop for a set number of times, use the 'range' function.
-* Returns a sequence of numbers used in FOR loops.
-* Arguments: (start, end, step)
+* To loop for a set number of times, use the `range()` function.
+* Returns a sequence of numbers used in `for` loops.
+* Arguments: `(start, end, step)`
 
 ```python
 loopIndex = -1
@@ -57,7 +57,7 @@ for loopIndex in range(10,20):
 ```
 
 ## Step
-* It is possible to specify the increment value by adding a third argument to 'range'.
+* It is possible to specify the increment value by adding a third argument to `range()`.
 * Most of the time, this will be 1 (default value).
 * There are times when you might want to use this.
 
@@ -73,7 +73,7 @@ for loopNumber in range(0, 100, 5):
 
 ## Loop Passing
 * Loop structures cannot be empty.
-* If they need to be empty, you can use the 'pass' statement.
+* If they need to be empty, you can use the `pass` statement.
 * This is the same as with IF structures.
 
 ```python

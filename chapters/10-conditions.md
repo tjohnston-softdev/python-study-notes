@@ -26,7 +26,7 @@ print("A") if (a >= b) else print("B")
 
 ## Pass Statement
 * IF structures cannot be empty.
-* For an empty IF structure, you can use the 'pass' statement to avoid errors.
+* For an empty IF structure, you can use the `pass` statement to avoid errors.
 
 ```python
 a = 200
