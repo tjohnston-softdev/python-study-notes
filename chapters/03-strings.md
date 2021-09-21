@@ -150,16 +150,16 @@ print(strTxt)
 ## Escape Characters Table
 | Code | Description |
 |---|---|
-| `\'` | Single quote |
-| `\"` | Double quote |
-| `\\` | Backslash |
-| `\n` | New line |
-| `\r` | Return |
-| `\t` | Tab |
-| `\b` | Backspace |
-| `\f` | Form feed |
-| `\ooo` | Octal value |
-| `\xhh` | Hex value |
+| `\'` | Single quote. |
+| `\"` | Double quote. |
+| `\\` | Backslash. |
+| `\n` | New line. |
+| `\r` | Return. |
+| `\t` | Tab. |
+| `\b` | Backspace. |
+| `\f` | Form feed. |
+| `\ooo` | Octal value. |
+| `\xhh` | Hex value. |
 
 
 ---

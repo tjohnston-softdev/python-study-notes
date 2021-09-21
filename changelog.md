@@ -1,7 +1,7 @@
 # Changelog
 
 **./chapters/03-strings.md**
-* Formatted escape character.
+* Added full stops to escape character descriptions.
 
 ---
 
