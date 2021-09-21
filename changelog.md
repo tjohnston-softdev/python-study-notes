@@ -1,7 +1,7 @@
 # Changelog
 
 **./chapters/02-syntax.md**
-* Formatted function names and keywords.
+* Bolded comment symbol (**#**)
 
 ---
 

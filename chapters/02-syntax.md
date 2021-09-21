@@ -31,7 +31,7 @@ print("The indentation is missing")
 ```
 
 ## Comments
-Marked with the # character.
+Marked with the **#** character.
 
 ```python
 # This is an in-line comment.
