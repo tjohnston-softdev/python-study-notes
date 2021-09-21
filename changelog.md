@@ -1,4 +1,4 @@
 # Changelog
 
 **./chapters/01-introduction.md**
-* Added missing full stops.
+* Added colon `:` before version command.

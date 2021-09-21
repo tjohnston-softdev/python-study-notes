@@ -41,7 +41,7 @@
 	* Indentation is only for show.
 
 ## Checking Version
-To check if Python is installed, open a terminal and run the command `python --version`
+To check if Python is installed, open a terminal and run the command: `python --version`
 
 ---
 
