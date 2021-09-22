@@ -1,4 +1,4 @@
 # Changelog
 
 **./chapters/readme.md**
-* Wrote contents for chapters 02 - 03.
+* Wrote contents for chapters 04 - 09.
