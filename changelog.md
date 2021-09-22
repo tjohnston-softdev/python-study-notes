@@ -1,4 +1,4 @@
 # Changelog
 
 **./chapters/readme.md**
-* Wrote contents for chapters 10 - 24.
+* Added link back to project root.

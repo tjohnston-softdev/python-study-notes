@@ -229,3 +229,7 @@
 * [Create File](./24-files.md#create-file)
 * [Delete File](./24-files.md#delete-file)
 * [Delete Folder](./24-files.md#delete-folder)
+
+---
+
+[Return to Index](../readme.md)
