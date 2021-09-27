@@ -1,3 +1,3 @@
 # Changelog
 
-Wrote Readme contents.
+Horizontal rules between sections.
