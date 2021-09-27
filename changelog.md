@@ -1,3 +1,3 @@
 # Changelog
 
-Horizontal rules between sections.
+Public Release
