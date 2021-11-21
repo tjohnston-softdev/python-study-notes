@@ -18,7 +18,7 @@
 * If you do not have PIP installed, you can download it [here](https://pypi.org/project/pip/).
 
 ```
-Python root path: C:\Users\[user]\AppData\Local\Programs\Python\Python36-32\Scripts
+Python root path: C:\Users\[user]\AppData\Local\Programs\Python\[version]\Scripts
 Command: pip --version
 Output: pip 21.1.3 from c:\users\[user]\appdata\local\programs\python\python39\lib\site-packages\pip (python 3.9)
 ```
