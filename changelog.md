@@ -1,4 +1,5 @@
 # Changelog
 
-**./chapters/21-pip.md**
-* Replaced "Python 36-32" in the root path with a placeholder.
+**./readme.md**
+* Changed "Released" field to "Originally Released"
+* Added "Last Updated" field.

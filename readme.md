@@ -10,7 +10,8 @@ This is a repository for study notes I have written while trying to learn Python
 
 **Written:** 30 August 2021 - 8 September 2021  
 **Converted:** 20 September 2021 - 22 September 2021   
-**Released:** 27 September 2021
+**Originally Released:** 27 September 2021  
+**Last Updated:** 21 November 2021
 
 ---
 
